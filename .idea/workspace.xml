@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff2ad73a-ff56-41df-b04c-b9073ea9a1b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Generics/com/generics/collection/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/boilerplate/CastingProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/collection/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/collection/ListCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/collection/MapCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/collection/SetCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/generciInterfacesAndClases/EmployeeComparatorUsingId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/generciInterfacesAndClases/GenericTypeImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/methodGeneric/MethodGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/methodGeneric/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/passingParameterToGenericType/EmployeeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/passingParameterToGenericType/GenericTypeImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/passingParameterToGenericType/ReverseEmployeeComparatorUsingGenericParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/typeBound/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/typeBound/SortedTwoEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/typeBound/TypeBoundEntryPoint.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mRAMIudOTbcbAy2Szz6D3I606r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.generics.passingParameterToGenericType" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MethodGeneric">
+    <configuration name="GenericTypeImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.generics.generciInterfacesAndClases.GenericTypeImplementation" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generics.generciInterfacesAndClases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericTypeImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.generics.passingParameterToGenericType.GenericTypeImplementation" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generics.passingParameterToGenericType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.generics.collection.MapCollection" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generics.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.generics.methodGeneric.MethodGeneric" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generics.methodGeneric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeBoundEntryPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.generics.typeBound.TypeBoundEntryPoint" />
+      <module name="Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generics.typeBound.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MethodGeneric" />
+        <item itemvalue="Application.TypeBoundEntryPoint" />
+        <item itemvalue="Application.GenericTypeImplementation (1)" />
+        <item itemvalue="Application.GenericTypeImplementation" />
+        <item itemvalue="Application.MapCollection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff2ad73a-ff56-41df-b04c-b9073ea9a1b2" name="Default Changelist" comment="" />
+      <created>1609445979176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609445979176</updated>
+      <workItem from="1609445983456" duration="7043000" />
+      <workItem from="1609503380240" duration="13416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1609524651563">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1609524651563" />
+    <state x="276" y="71" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609510731187">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="276" y="71" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1609510731187" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1609525760428">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1609525760428" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1609525760427">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1609525760427" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1609525760427">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1609525760427" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1609525760428">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1609525760428" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1609509465197">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1609509465197" />
+    <state x="413" y="130" key="extract.method.dialog" timestamp="1609511022940">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="130" key="extract.method.dialog/0.0.1366.738@0.0.1366.738" timestamp="1609511022940" />
+  </component>
+</project>
